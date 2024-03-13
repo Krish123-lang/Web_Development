@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar {
+    height: 50px;
+    background-color: black;
+}
+
+.logo {
+    font-size: 25px;
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 200px;
+    color: white;
+}
+
+button {
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 5px;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.content>div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 4;
+    color: white;
+    font-size: 25px;
+}
+
+.first {
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 5px solid rgb(35, 34, 97);
+}
+
+.second {
+    background-color: rgba(0, 255, 0, 0.5);
+    border: 5px solid rgb(199, 27, 142);
+}
+
+.third {
+    background-color: rgba(0, 0, 255, 0.5);
+    border: 5px solid rgb(228, 224, 30);
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.content{
+    height: 900px;
+}
