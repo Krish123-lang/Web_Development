@@ -12,5 +12,11 @@
 ```
 
 ---
+## Before Centering
 
 ![backImg](image.png)
+---
+
+## After Centering
+
+![afterCentering](image-1.png)
